@@ -1,0 +1,30 @@
+.next {
+  font-size: 1rem;
+  background-color: red;
+  width: 300px;
+  margin: 20px 0;
+  padding: 10px;
+  display: none;
+}
+
+.btn {
+  display: inline-block;
+  padding: 5px;
+  font-family: ssans-serif;
+  border-radius: 10px;
+  font-size: 2rem;
+  margin-right: 10px;
+  cursor: pointer;
+}
+.answer {
+  border: 1px solid #ddd;
+}
+.answer:hover {
+  background-color: beige;
+  border: 1px solid red;
+}
+.question {
+  display: block;
+  font-size: 2rem;
+  margin-bottom: 20px;
+}
